@@ -1,0 +1,12 @@
+# fxSDK
+build-cg/
+build-fx/
+*.g3a
+*.g1a
+# binaires des outils sur PC
+tools/host_sim/electronique_sim
+tools/tests/check_all
+tools/tests/test_num
+tools/tests/dump_calcs
+__pycache__/
+*.ppm
